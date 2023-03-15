@@ -1,0 +1,16 @@
+<pocet>
+;
+<x>
+<y>
+<typ>
+<podtyp>
+;
+...
+pocet x
+...
+;
+<x>
+<y>
+<typ>
+<podtyp>
+;

@@ -1,0 +1,14 @@
+<pocet_wall_objektu>
+;
+<cislo_typu>
+<x>
+<y>
+;
+...
+pocet x
+...
+;
+<cislo_typu>
+<x>
+<y>
+;
